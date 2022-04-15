@@ -18,7 +18,7 @@ These are the Best Interview Questions to help you prepare for interviews in a m
 ### Computer Networking 
   - [Computer Networking](https://www.interviewbit.com/computer-network-mcq/)
 
-### Web
+### Frontend
   - [Web Developer Interview](https://www.interviewbit.com/web-developer-interview-questions/)
   - [Web API](https://www.interviewbit.com/web-api-interview-questions/)
   - [Angular](https://www.interviewbit.com/angular-interview-questions/)
@@ -26,22 +26,27 @@ These are the Best Interview Questions to help you prepare for interviews in a m
   - [Angular 8](https://www.interviewbit.com/angular-8-interview-questions/)
   - [jQuery](https://www.interviewbit.com/jquery-interview-questions/)
   - [Php](https://www.interviewbit.com/php-interview-questions/)
-  - [NodeJS](https://www.interviewbit.com/node-js-interview-questions/)
-  - [GIT](https://www.interviewbit.com/git-interview-questions/)
   - [CSS](https://www.interviewbit.com/css-interview-questions/)
   - [HTML](https://www.interviewbit.com/html-interview-questions/)
+  - [Bootstrap](https://www.interviewbit.com/bootstrap-interview-questions/)
+  - [JavaScript](https://www.interviewbit.com/javascript-mcq/)
+  - [TypeScript](https://www.interviewbit.com/typescript-interview-questions/)
+  - [React](https://www.interviewbit.com/react-interview-questions/)
+  - [Redux](https://www.interviewbit.com/redux-interview-questions/)
+
+### Backend 
+  - [Web Developer Interview](https://www.interviewbit.com/web-developer-interview-questions/)
+  - [Web API](https://www.interviewbit.com/web-api-interview-questions/)
+  - [NodeJS](https://www.interviewbit.com/node-js-interview-questions/)
+  - [GIT](https://www.interviewbit.com/git-interview-questions/)
   - [Django](https://www.interviewbit.com/django-interview-questions/)
   - [Spring Boot](https://www.interviewbit.com/spring-boot-interview-questions/)
-  - [TypeScript](https://www.interviewbit.com/typescript-interview-questions/)
   - [Web Services](https://www.interviewbit.com/web-services-interview-questions/)
-  - [Bootstrap](https://www.interviewbit.com/bootstrap-interview-questions/)
   - [Kafka](https://www.interviewbit.com/kafka-interview-questions/)
   - [ES6](https://www.interviewbit.com/es6-interview-questions/)
   - [API Testing](https://www.interviewbit.com/api-testing-interview-questions/)
   - [Postman](https://www.interviewbit.com/postman-interview-questions/)
-  - [Redux](https://www.interviewbit.com/redux-interview-questions/)
   - [Golang](https://www.interviewbit.com/golang-interview-questions/)
-  - [React](https://www.interviewbit.com/react-interview-questions/)
   - [JavaScript](https://www.interviewbit.com/javascript-mcq/)
  
 ### DevOps 
